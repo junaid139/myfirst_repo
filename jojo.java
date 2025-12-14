@@ -15,7 +15,7 @@ public class jojo {
 
         students[i].verification();
 
-        
+      
       }
 
 
