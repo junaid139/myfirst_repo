@@ -1,6 +1,4 @@
 ## Hello git!
-lets make a change in 2nd line in another b branch
+a fresh branch i guess
 
-this time lets make a change in another b 
-
-yoyoyoyoyoyoyo making changes in another b 
+lets gooo
